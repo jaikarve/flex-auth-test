@@ -1,6 +1,6 @@
 {
   "name": "flex-auth-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Test of Flex Auth",
   "main": "index.js",
   "scripts": {
